@@ -6,7 +6,7 @@ This is the **server-side** of the **Livery Management** project, built for hand
 This server manages the core functionality of the **Next Chapter** Library Management Website. It interacts with the database, processes user requests, and provides secure APIs for the client side.
 
 ## 🌐 Live API URL
-[Deployed Backend Link (if available)](#)  
+[Deployed Backend Link (if available)](https://server-pied-omega.vercel.app/)  
 > Replace the `#` with your actual deployment link (e.g., Render, Vercel, or Railway)
 
 ## ⚙️ Technologies Used
